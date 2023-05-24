@@ -11,8 +11,8 @@ To modify starting position, you can change the `positionX` and `positionY` vari
 # Purpose
 There isn't really a purpose to this program. It just showcases what AI can create with HTML. I don't plan to add more to this, but I can if I need to.
 
-# Prerelease Versions
-As this is being actively updated, prerelease versions will be released with every detail added. We'll try our best to make sure prerelease versions don't have bugs.
+# Pre-release Versions
+As this is being actively updated, pre-release versions will be released with every detail added. We'll try our best to make sure pre-release versions don't have bugs.
 
 # Known bugs
 Being AI generated, this program can be very prone to bugs, here are a few:
