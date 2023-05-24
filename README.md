@@ -15,5 +15,5 @@ There isn't really a purpose to this program. It just showcases what AI can crea
 Being AI generated, this program can be very prone to bugs, here are a few:
 
 - Player will void collision with the bottom of platforms, making the platforms feel like Mario.
-- There will sometimes be a delay in between jumps
+- Player will sometimes not jump after getting on a platform
 - Not really much else for now, good job ChatGPT!
